@@ -11,7 +11,7 @@ const navigator = createStackNavigator(
   {
     initialRouteName: 'Home',
     defaultNavigationOptions: {
-      title: 'Hogwarts'
+      title: 'Hogwarts Directory'
     }
   }
 )
